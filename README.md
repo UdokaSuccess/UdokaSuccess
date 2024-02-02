@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UdokaSuccess
+- 👋 Hi, I’m @UdokaKasie
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Front end development
 - 💞️ I’m looking to collaborate and learn more on this community
